@@ -22,7 +22,7 @@ The objective of this project is to predict house prices using the Kaggle-provid
    - **Feature Selection**: Use techniques like Lasso regression and feature importance from tree-based models to select the most relevant features.
 
 4. **Model Building**
-   - **Model Selection**: Evaluate various regression models, including Linear Regression, Ridge Regression, Lasso Regression, ElasticNet, Decision Trees, Random Forest.
+   - **Model Selection**: Evaluate various regression models, including Linear Regression, Ridge Regression, Lasso Regression, AdaBoost, Decision Trees, Random Forest.
    - **Hyperparameter Tuning**: Use GridSearchCV and RandomizedSearchCV to optimize model parameters.
    - **Model Stacking**: Implement ensemble methods like stacking to combine the predictions of multiple models for better accuracy.
 
@@ -37,7 +37,7 @@ The objective of this project is to predict house prices using the Kaggle-provid
 
 #### Technologies and Tools
 - **Programming Language**: Python
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, LightGBM
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Development Environment**: Jupyter Notebook
 
 #### Key Takeaways
